@@ -8,7 +8,7 @@ Para rodar o projeto, siga os seguintes passos:
 
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/MarioVenturaMedeiros/MARIOTROCAPF.git
+    git clone https://github.com/MarioVenturaMedeiros/prova2_M6
     cd prova2_M6
     ```
 

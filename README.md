@@ -1,6 +1,6 @@
 # Introdução
 
-Projeto feito para a prova 2 do Módulo 6 do segundo ano do curso de engenharia da computação. Esse projeto foi feito para dececção de faces em um vídeo utilizando Haar cascade. Ele le o video frame a frame, transforma ele em preto e branco para uma detecção melhor do haar cascade, classifica as imagens utilizando dois classificadores diferentes para aumentar a precisão e, assim que o vídeo acaba, ele fecha o programa. Caso queira ver um vídeo demostrando a solução, [clique aqui](https://youtu.be/fI8aRzsdEok)
+Projeto feito para a prova 2 do Módulo 6 do segundo ano do curso de engenharia da computação. Esse projeto foi feito para dececção de faces em um vídeo utilizando Haar cascade. Ele le o video frame a frame, transforma ele em preto e branco para uma detecção melhor do haar cascade, classifica as imagens utilizando dois classificadores diferentes para aumentar a precisão e, assim que o vídeo acaba, ele fecha o programa. Caso queira ver um vídeo demostrando a solução, [clique aqui](https://youtu.be/Bze9d1-SX8g)
 
 # Como rodar
 
